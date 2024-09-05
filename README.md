@@ -1,1 +1,1 @@
-#Solutions to Competitive Programming Problems, complete with comments and explanations
+Solutions to Competitive Programming Problems, complete with comments and explanations
